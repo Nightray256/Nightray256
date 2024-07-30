@@ -17,9 +17,10 @@
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust.react.nextjs,cpp,cs,fortran,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust,react,nextjs,cpp,cs,fortran,go)](https://skillicons.dev)
 
 **Tools**
+
 [![My Skills](https://skillicons.dev/icons?i=clion,idea,obsidian,latex,visualstudio,vscode,webstorm)](https://skillicons.dev)
 
 ## Github States
