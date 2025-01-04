@@ -19,8 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust,react,nextjs,cpp,cs,fortran,go)](https://skillicons.dev)
 
-[![Learning]
-(https://skillicons.dev/icons?i=rust,react,nextjs,go)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,nextjs,rust,go)](https://skillicons.dev)
 
 **Tools**
 
