@@ -25,7 +25,7 @@
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=clion,idea,obsidian,latex,visualstudio,vscode,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webstorm,obsidian,latex)](https://skillicons.dev)
 
 ## Github States
 
