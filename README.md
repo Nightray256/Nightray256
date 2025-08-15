@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🎓 He / 16y / Developer
-- 💻 Currently make high version Minecraft Plugins also develope website
-- 🎮 Apex / Minecraft / Valorant
+- 🎓 He / 18y / Developer
+- 💻 Currently learning cyber security
+- 🎮 Apex / Minecraft / YuGiOh
 
 ## Experience
 
