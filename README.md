@@ -17,7 +17,7 @@
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust,react,nextjs,cpp,cs,fortran,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,rust,react,nextjs,cpp,cs,go)](https://skillicons.dev)
 
 **Learning**
 
